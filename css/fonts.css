@@ -1,0 +1,55 @@
+@font-face {
+  font-family: "Arial";
+  src: url("../assets/fonts/arial/arial.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Arial";
+  src: url("../assets/fonts/arial/arialbd.ttf");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Arial";
+  src: url("../assets/fonts/arial/ariali.ttf");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Arial";
+  src: url("../assets/fonts/arial/arialbi.ttf");
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Georgia";
+  src: url("../assets/fonts/georgia/georgia.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Georgia";
+  src: url("../assets/fonts/georgia/georgiab.ttf");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Georgia";
+  src: url("../assets/fonts/georgia/georgiai.ttf");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Georgia";
+  src: url("../assets/fonts/georgia/georgiaz.ttf");
+  font-weight: 700;
+  font-style: italic;
+}

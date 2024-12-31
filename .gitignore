@@ -1,2 +1,7 @@
 # Dependency directories
 node_modules/
+
+# Linters
+.editorconfig
+.linthtmlrc
+.stylelintrc
